@@ -13,8 +13,8 @@ const projects: Project[] = [
   {
     title: "DAW SNKRS",
     description:
-      "A custom sneaker store built with React, Node.js, and PostgreSQL. This is our own brand, created as part of a class project to simulate a real e-commerce experience.",
-    technologies: ["React", "Node.js", "PostgreSQL"],
+      "A custom sneaker store built with HTML/CSS, JavaScript and Python. This is our own brand, created as part of a class project to simulate a real e-commerce experience.",
+    technologies: ["HTML/CSS", "JavaScript", "Python"],
     category: "Full Stack",
     github: "https://github.com/JoseJuan018/DAW-SNKRS",
   },
