@@ -50,7 +50,7 @@ const Hero: React.FC = () => {
           {/* Botón CV */}
           <a
             href="/Curriculum.pdf"
-            download
+            download="Curriculum.pdf"
             className="relative px-6 py-3 rounded-lg overflow-hidden text-white font-semibold group shadow-md"
           >
             <span className="absolute inset-0 bg-gradient-to-r from-purple-600 via-pink-500 to-cyan-400 bg-[length:200%_200%] animate-gradient-x"></span>
