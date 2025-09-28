@@ -49,7 +49,7 @@ const Hero: React.FC = () => {
 
           {/* Botón CV */}
           <a
-            href="/cv.pdf"
+            href="https://josejuan018.github.io/Portfolio/cv.pdf"
             download="cv.pdf"
             className="relative px-6 py-3 rounded-lg overflow-hidden text-white font-semibold group shadow-md"
           >
