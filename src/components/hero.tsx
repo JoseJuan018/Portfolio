@@ -46,8 +46,9 @@ const Hero: React.FC = () => {
             <FaEnvelope className="text-lg" />
             Get In Touch
           </a>
-
+            
           {/* Botón CV */}
+          {/*
           <a
             href="https://josejuan018.github.io/Portfolio/cv.pdf"
             download="cv.pdf"
@@ -58,6 +59,7 @@ const Hero: React.FC = () => {
               Download CV
             </span>
           </a>
+          /*/}
         </div>
          
 
