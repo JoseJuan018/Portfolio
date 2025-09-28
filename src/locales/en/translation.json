@@ -1,0 +1,11 @@
+{
+  "contactTitle": "Get In Touch",
+  "contactText": "Ready to start your next project? Let’s discuss how we can work together to bring your ideas to life.",
+  "sendMessage": "Send Message",
+  "namePlaceholder": "Your Name",
+  "emailPlaceholder": "Your Email",
+  "messagePlaceholder": "Your Message",
+  "limitReached": "Limit Reached",
+  "limitReachedAlert": "You've reached the message limit. Please wait before sending more.",
+  "thankYouAlert": "Thank you for your message! I will get back to you soon."
+}

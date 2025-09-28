@@ -1,0 +1,11 @@
+{
+  "contactTitle": "Contacta conmigo",
+  "contactText": "¿Listo para empezar tu próximo proyecto? Hablemos sobre cómo podemos trabajar juntos para hacerlo realidad.",
+  "sendMessage": "Enviar mensaje",
+  "namePlaceholder": "Su nombre",
+  "emailPlaceholder": "Tu correo electrónico",
+  "messagePlaceholder": "Tu mensaje",
+  "limitReached": "Límite alcanzado",
+  "limitReachedAlert": "Has alcanzado el límite de mensajes. Por favor, espera antes de enviar más.",
+  "thankYouAlert": "¡Gracias por tu mensaje! Me pondré en contacto contigo pronto."
+}
