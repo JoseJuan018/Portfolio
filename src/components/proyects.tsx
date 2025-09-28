@@ -10,15 +10,15 @@ type Project = {
 };
 
 const projects: Project[] = [
-  /*{
-    title: "E-Commerce Platform",
+  {
+    title: "DAW SNKRS",
     description:
-      "An e-commerce platform built with React, Node.js, and PostgreSQL featuring real-time inventory management and payment processing.",
+      "A custom sneaker store built with React, Node.js, and PostgreSQL. This is our own brand, created as part of a class project to simulate a real e-commerce experience.",
     technologies: ["React", "Node.js", "PostgreSQL"],
     category: "Full Stack",
-    github: "https://github.com/tuusuario/ecommerce-platform",
+    github: "https://github.com/JoseJuan018/DAW-SNKRS",
   },
-  
+  /*
   {
     title: "AI Dashboard",
     description:
@@ -26,7 +26,8 @@ const projects: Project[] = [
     technologies: ["React", "TypeScript", "Python"],
     category: "Frontend",
     github: "https://github.com/tuusuario/ai-dashboard",
-  },*/
+  },
+  */
 ];
 
 
