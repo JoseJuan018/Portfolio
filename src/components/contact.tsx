@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { FaEnvelope, FaPhone, FaMapMarkerAlt, FaLinkedin } from "react-icons/fa";
+import { FaEnvelope, FaMapMarkerAlt, FaLinkedin } from "react-icons/fa";
 
 const Contact: React.FC = () => {
   return (

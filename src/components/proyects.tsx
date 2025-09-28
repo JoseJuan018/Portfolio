@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { FaGithub } from "react-icons/fa";
-import { useTranslation } from "react-i18next";
 
 type Project = {
   title: string;

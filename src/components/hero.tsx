@@ -64,14 +64,14 @@ const Hero: React.FC = () => {
         {/* Redes sociales */}
         <div className="flex gap-6 mt-4 text-2xl justify-center">
           <a
-            href="https://github.com/tuusuario"
+            href="https://github.com/JoseJuan018"
             target="_blank"
             className="hover:text-purple-400 transition"
           >
             <FaGithub />
           </a>
           <a
-            href="https://linkedin.com/in/tuusuario"
+            href="https://linkedin.com/in/jose-juan-arenas-88b8a8365"
             target="_blank"
             className="hover:text-purple-400 transition"
           >
