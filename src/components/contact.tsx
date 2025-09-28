@@ -15,7 +15,7 @@ const Contact: React.FC = () => {
         viewport={{ once: true }}
         className="text-5xl md:text-6xl font-extrabold mb-6"
       >
-        Get In Touch
+        Get In Touch With Me
       </motion.h2>
 
       <motion.p

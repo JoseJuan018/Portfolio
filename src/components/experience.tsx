@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const experiences = [
   {
-    role: "IT Support Intern",
+    role: "IT Support Technician",
     company: "El Corte Inglés",
     date: "2022 - 2023",
     location: "Valencia, Spain",
@@ -25,7 +25,7 @@ const experiences = [
     description:
       "Worked on various web development projects, contributing to both frontend and backend tasks.",
     achievements: [
-      "Built 10+ web applications",
+      "Created 10+ web applications",
       "Manteined websites with 99% uptime",
       "Improved website performance by 70%",
     ],
